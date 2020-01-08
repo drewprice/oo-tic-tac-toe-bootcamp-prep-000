@@ -1,4 +1,3 @@
-n# OO Tic Tac Toe
 
 ## Objectives
 
